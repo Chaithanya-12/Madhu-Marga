@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-merged_res-54:\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-main-56:\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-merged_res-54:\\layout_fragment_flora.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-main-56:\\layout\\fragment_flora.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-merged_res-54:\\layout_activity_add_edit_hive.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-main-56:\\layout\\activity_add_edit_hive.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-merged_res-54:\\mipmap-hdpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-main-56:\\mipmap-hdpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-merged_res-54:\\layout_item_hive.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-main-56:\\layout\\item_hive.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-merged_res-54:\\layout_item_inspection.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-main-56:\\layout\\item_inspection.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-merged_res-54:\\layout_activity_add_harvest.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-main-56:\\layout\\activity_add_harvest.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-merged_res-54:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-main-56:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-merged_res-54:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-main-56:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-merged_res-54:\\mipmap-xhdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-main-56:\\mipmap-xhdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.madhumarga.app-merged_res-54:/layout_item_hive.xml.flat",
+        "source": "com.madhumarga.app-main-56:/layout/item_hive.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-merged_res-54:\\layout_activity_add_inspection.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-main-56:\\layout\\activity_add_inspection.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-merged_res-54:\\mipmap-xxhdpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-main-56:\\mipmap-xxhdpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-merged_res-54:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-main-56:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-merged_res-54:\\mipmap-hdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-main-56:\\mipmap-hdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-merged_res-54:\\layout_fragment_harvest.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-main-56:\\layout\\fragment_harvest.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-merged_res-54:\\color_nav_item_color.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-main-56:\\color\\nav_item_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-merged_res-54:\\layout_activity_add_flora.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-main-56:\\layout\\activity_add_flora.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-merged_res-54:\\layout_item_harvest.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-main-56:\\layout\\item_harvest.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-merged_res-54:\\drawable_bg_alert_badge.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-main-56:\\drawable\\bg_alert_badge.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-merged_res-54:\\drawable_ai_bubble.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-main-56:\\drawable\\ai_bubble.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-merged_res-54:\\layout_item_flora.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-main-56:\\layout\\item_flora.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-merged_res-54:\\drawable_bg_warning.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-main-56:\\drawable\\bg_warning.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-merged_res-54:\\layout_item_alert.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-main-56:\\layout\\item_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-merged_res-54:\\layout_fragment_inspection.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-main-56:\\layout\\fragment_inspection.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-merged_res-54:\\mipmap-xhdpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-main-56:\\mipmap-xhdpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-merged_res-54:\\drawable_user_bubble.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-main-56:\\drawable\\user_bubble.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-merged_res-54:\\layout_activity_ai.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-main-56:\\layout\\activity_ai.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-merged_res-54:\\mipmap-mdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-main-56:\\mipmap-mdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-merged_res-54:\\drawable_ic_bee.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-main-56:\\drawable\\ic_bee.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-merged_res-54:\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-main-56:\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-merged_res-54:\\mipmap-xxhdpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-main-56:\\mipmap-xxhdpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-merged_res-54:\\layout_fragment_hives.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-main-56:\\layout\\fragment_hives.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-merged_res-54:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-main-56:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-merged_res-54:\\mipmap-mdpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-main-56:\\mipmap-mdpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-merged_res-54:\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-main-56:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-merged_res-54:\\layout_fragment_dashboard.xml.flat",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-main-56:\\layout\\fragment_dashboard.xml"
+    }
+]

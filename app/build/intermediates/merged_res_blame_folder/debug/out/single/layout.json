@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-mergeDebugResources-53:\\layout\\fragment_dashboard.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-main-56:\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-mergeDebugResources-53:\\layout\\fragment_harvest.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-main-56:\\layout\\fragment_harvest.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-mergeDebugResources-53:\\layout\\activity_add_harvest.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-main-56:\\layout\\activity_add_harvest.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-mergeDebugResources-53:\\layout\\item_alert.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-main-56:\\layout\\item_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-mergeDebugResources-53:\\layout\\activity_ai.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-main-56:\\layout\\activity_ai.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-mergeDebugResources-53:\\layout\\item_flora.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-main-56:\\layout\\item_flora.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-mergeDebugResources-53:\\layout\\item_hive.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-main-56:\\layout\\item_hive.xml"
+    },
+    {
+        "merged": "com.madhumarga.app-mergeDebugResources-53:/layout/item_hive.xml",
+        "source": "com.madhumarga.app-main-56:/layout/item_hive.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-mergeDebugResources-53:\\layout\\activity_add_edit_hive.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-main-56:\\layout\\activity_add_edit_hive.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-mergeDebugResources-53:\\layout\\item_inspection.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-main-56:\\layout\\item_inspection.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-mergeDebugResources-53:\\layout\\fragment_hives.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-main-56:\\layout\\fragment_hives.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-mergeDebugResources-53:\\layout\\fragment_inspection.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-main-56:\\layout\\fragment_inspection.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-mergeDebugResources-53:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-main-56:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-mergeDebugResources-53:\\layout\\activity_add_flora.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-main-56:\\layout\\activity_add_flora.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-mergeDebugResources-53:\\layout\\activity_add_inspection.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-main-56:\\layout\\activity_add_inspection.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-mergeDebugResources-53:\\layout\\activity_settings.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-main-56:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-mergeDebugResources-53:\\layout\\fragment_flora.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-main-56:\\layout\\fragment_flora.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-mergeDebugResources-53:\\layout\\item_harvest.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\8.5\\com.madhumarga.app-main-56:\\layout\\item_harvest.xml"
+    }
+]

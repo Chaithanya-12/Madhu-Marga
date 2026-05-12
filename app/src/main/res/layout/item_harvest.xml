@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    app:cardCornerRadius="12dp"
+    app:cardElevation="4dp"
+    app:cardBackgroundColor="@color/white">
+
+    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:orientation="vertical" android:padding="16dp">
+
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:orientation="horizontal" android:gravity="center_vertical">
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:text="🍯" android:textSize="32sp" android:layout_marginEnd="12dp" />
+            <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content"
+                android:layout_weight="1" android:orientation="vertical">
+                <TextView android:id="@+id/tvHiveName"
+                    android:layout_width="wrap_content" android:layout_height="wrap_content"
+                    android:textSize="17sp" android:textStyle="bold" android:textColor="@color/honey_dark" />
+                <TextView android:id="@+id/tvDate"
+                    android:layout_width="wrap_content" android:layout_height="wrap_content"
+                    android:textSize="12sp" android:textColor="@color/text_secondary" />
+            </LinearLayout>
+            <TextView android:id="@+id/tvQuantity"
+                android:layout_width="wrap_content" android:layout_height="wrap_content"
+                android:textSize="20sp" android:textStyle="bold" android:textColor="@color/honey_amber" />
+            <ImageButton android:id="@+id/btnDelete"
+                android:layout_width="36dp" android:layout_height="36dp"
+                android:src="@android:drawable/ic_menu_delete"
+                android:background="?attr/selectableItemBackgroundBorderless"
+                android:contentDescription="Delete" android:layout_marginStart="4dp" />
+        </LinearLayout>
+
+        <TextView android:id="@+id/tvQuality"
+            android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:textSize="13sp" android:textColor="@color/honey_dark"
+            android:layout_marginTop="8dp" />
+
+        <TextView android:id="@+id/tvNotes"
+            android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:textSize="12sp" android:textColor="@color/text_secondary"
+            android:layout_marginTop="4dp" android:visibility="gone" />
+    </LinearLayout>
+</com.google.android.material.card.MaterialCardView>

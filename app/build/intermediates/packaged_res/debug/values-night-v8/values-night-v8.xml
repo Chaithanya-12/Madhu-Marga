@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="alert_red">#EF5350</color>
+    <color name="alert_red_light">#3B1515</color>
+    <color name="background_cream">#1A1A1A</color>
+    <color name="colorAccent">#FFC107</color>
+    <color name="colorBackground">#1A1A1A</color>
+    <color name="colorError">#EF5350</color>
+    <color name="colorOnBackground">#F0F0F0</color>
+    <color name="colorOnError">#FFFFFF</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorOnSecondary">#FFFFFF</color>
+    <color name="colorOnSurface">#F0F0F0</color>
+    <color name="colorPrimary">#F5A623</color>
+    <color name="colorPrimaryDark">#8B5E00</color>
+    <color name="colorPrimaryVariant">#E09400</color>
+    <color name="colorSecondary">#4CAF50</color>
+    <color name="colorSecondaryVariant">#388E3C</color>
+    <color name="colorSurface">#2C2C2C</color>
+    <color name="divider">#3A3A3A</color>
+    <color name="green_fresh">#4CAF50</color>
+    <color name="honey_amber">#F5A623</color>
+    <color name="honey_dark">#8B5E00</color>
+    <color name="honey_light">#3A2E00</color>
+    <color name="honey_pale">#2A2000</color>
+    <color name="text_secondary">#AAAAAA</color>
+    <color name="white">#2C2C2C</color>
+    <style name="Theme.MadhuMarga" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/honey_amber</item>
+        <item name="colorPrimaryVariant">@color/honey_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/green_fresh</item>
+        <item name="colorSecondaryVariant">@color/green_fresh</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:colorBackground">@color/background_cream</item>
+        <item name="colorSurface">@color/white</item>
+        <item name="colorError">@color/alert_red</item>
+        <item name="android:statusBarColor" ns1:targetApi="l">@color/honey_dark</item>
+    </style>
+</resources>

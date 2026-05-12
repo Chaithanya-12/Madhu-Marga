@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Madhu-Marga</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_hives">Hive Register</string>
+    <string name="title_inspection">Inspection Log</string>
+    <string name="title_harvest">Harvest Tracker</string>
+    <string name="title_flora">Flora Calendar</string>
+</resources>

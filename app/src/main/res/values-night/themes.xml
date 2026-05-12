@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.MadhuMarga" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/honey_amber</item>
+        <item name="colorPrimaryVariant">@color/honey_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/green_fresh</item>
+        <item name="colorSecondaryVariant">@color/green_fresh</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:colorBackground">@color/background_cream</item>
+        <item name="colorSurface">@color/white</item>
+        <item name="colorError">@color/alert_red</item>
+        <item name="android:statusBarColor" tools:targetApi="l">@color/honey_dark</item>
+    </style>
+</resources>

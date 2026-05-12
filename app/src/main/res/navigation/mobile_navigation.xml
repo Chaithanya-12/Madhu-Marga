@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_dashboard">
+
+    <fragment
+        android:id="@+id/navigation_dashboard"
+        android:name="com.madhumarga.app.ui.dashboard.DashboardFragment"
+        android:label="Dashboard" />
+
+    <fragment
+        android:id="@+id/navigation_hives"
+        android:name="com.madhumarga.app.ui.hive.HivesFragment"
+        android:label="Hive Register" />
+
+    <fragment
+        android:id="@+id/navigation_inspection"
+        android:name="com.madhumarga.app.ui.inspection.InspectionFragment"
+        android:label="Inspection Log" />
+
+    <fragment
+        android:id="@+id/navigation_harvest"
+        android:name="com.madhumarga.app.ui.harvest.HarvestFragment"
+        android:label="Harvest Tracker" />
+
+    <fragment
+        android:id="@+id/navigation_flora"
+        android:name="com.madhumarga.app.ui.flora.FloraFragment"
+        android:label="Flora Calendar" />
+
+</navigation>

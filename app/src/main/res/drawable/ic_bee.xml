@@ -1,0 +1,38 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Bee body -->
+    <path android:fillColor="#FFD600"
+        android:pathData="M54,30 C40,30 30,42 30,55 C30,68 40,78 54,78 C68,78 78,68 78,55 C78,42 68,30 54,30Z"/>
+
+    <!-- Stripes -->
+    <path android:fillColor="#212121"
+        android:pathData="M34,52 C35,46 40,42 46,41 L62,41 C68,42 73,46 74,52Z"/>
+
+    <path android:fillColor="#212121"
+        android:pathData="M31,62 C32,57 35,54 39,53 L69,53 C73,54 76,57 77,62Z"/>
+
+    <!-- Wings -->
+    <path android:fillColor="#B3E5FC" android:fillAlpha="0.8"
+        android:pathData="M38,38 C28,28 18,30 20,40 C22,50 38,52 38,52Z"/>
+
+    <path android:fillColor="#B3E5FC" android:fillAlpha="0.8"
+        android:pathData="M70,38 C80,28 90,30 88,40 C86,50 70,52 70,52Z"/>
+
+    <!-- Stinger -->
+    <path android:fillColor="#212121"
+        android:pathData="M54,78 L50,88 L54,86 L58,88Z"/>
+
+    <!-- Eyes (FIXED) -->
+    <path
+        android:fillColor="#212121"
+        android:pathData="M46,38 m-3,0 a3,3 0 1,0 6,0 a3,3 0 1,0 -6,0"/>
+
+    <path
+        android:fillColor="#212121"
+        android:pathData="M62,38 m-3,0 a3,3 0 1,0 6,0 a3,3 0 1,0 -6,0"/>
+
+</vector>

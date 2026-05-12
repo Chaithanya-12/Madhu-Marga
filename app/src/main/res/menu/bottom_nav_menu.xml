@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@android:drawable/ic_menu_today"
+        android:title="Dashboard" />
+    <item
+        android:id="@+id/navigation_hives"
+        android:icon="@android:drawable/ic_menu_mapmode"
+        android:title="Hives" />
+    <item
+        android:id="@+id/navigation_inspection"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="Inspect" />
+    <item
+        android:id="@+id/navigation_harvest"
+        android:icon="@android:drawable/ic_menu_gallery"
+        android:title="Harvest" />
+    <item
+        android:id="@+id/navigation_flora"
+        android:icon="@android:drawable/ic_menu_compass"
+        android:title="Flora" />
+</menu>

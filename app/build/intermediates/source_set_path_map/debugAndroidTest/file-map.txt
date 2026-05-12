@@ -1,0 +1,6 @@
+com.madhumarga.app.test.app-core-1.5.0-0 C:\Users\admin\.gradle\caches\transforms-3\38d3638eccbe7644e57381f0b59a5bd6\transformed\core-1.5.0\res
+com.madhumarga.app.test.app-annotation-experimental-1.3.0-1 C:\Users\admin\.gradle\caches\transforms-3\b9d67137c0e8835135d10d589464dafe\transformed\annotation-experimental-1.3.0\res
+com.madhumarga.app.test.app-androidTest-2 C:\Users\admin\Downloads\MadhuMarga\MadhuMarga\app\build\generated\res\resValues\androidTest\debug
+com.madhumarga.app.test.app-mergeDebugAndroidTestResources-3 C:\Users\admin\Downloads\MadhuMarga\MadhuMarga\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.madhumarga.app.test.app-mergeDebugAndroidTestResources-4 C:\Users\admin\Downloads\MadhuMarga\MadhuMarga\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.madhumarga.app.test.app-merged_res-5 C:\Users\admin\Downloads\MadhuMarga\MadhuMarga\app\build\intermediates\merged_res\debugAndroidTest

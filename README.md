@@ -18,7 +18,8 @@ Madhu-Marga is an Android application developed to assist farmers and beginner b
 
 # 🚀 Problem Statement
 
-Honey bees play a crucial role in pollination and agricultural productivity.  
+Honey bees play a crucial role in pollination and agricultural productivity.
+
 However, maintaining healthy bee colonies is difficult for beginners because hive conditions are highly sensitive to:
 
 - Temperature changes
@@ -80,15 +81,38 @@ The app simulates AI-guided recommendations based on user logs and hive conditio
 - Progress indicators for honey flow seasons
 - Hive performance monitoring dashboard
 
+## 🤖 AI Beekeeping Assistant
+- AI-powered beekeeping guidance
+- Answers farming and hive-related queries
+- Provides pest management recommendations
+- Suggests colony maintenance practices
+- Generates contextual beekeeping support
+
 ---
 
 # 🧠 AI/Logic Used
 
-The app uses a **Decision Matrix Logic** to analyze hive observations and provide suggestions such as:
+Madhu-Marga integrates Google's Gemini AI API to provide intelligent beekeeping assistance.
 
-- When to harvest honey
-- When to split colonies
-- Hive intervention recommendations
+The AI assistant helps users with:
+
+- Hive maintenance guidance
+- Honey production recommendations
+- Pest and disease management
+- Colony health suggestions
+- Seasonal beekeeping advice
+
+The application uses:
+- Gemini Flash Model
+- OkHttp Client for API communication
+- JSON-based request/response handling
+- Prompt engineering for domain-specific AI responses
+
+### Sample AI Prompt
+
+```kotlin
+"You are a beekeeping assistant. Only answer about bees, hives, honey production, pests, and farming."
+```
 
 ---
 
@@ -100,6 +124,9 @@ The app uses a **Decision Matrix Logic** to analyze hive observations and provid
 | Jetpack Compose | Modern UI Design |
 | MVVM Architecture | Application Structure |
 | Room Database | Local Data Storage |
+| Gemini API | AI Beekeeping Assistant |
+| OkHttp | API Communication |
+| JSON Parsing | API Response Handling |
 | Android Studio | Development Environment |
 | Material Design | UI Components |
 
@@ -129,19 +156,35 @@ Madhu-Marga/
 
 ## Steps to Run
 
-1. Clone the repository
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/your-username/Madhu-Marga.git
 ```
 
-2. Open the project in Android Studio
+### 2. Open the project in Android Studio
 
-3. Sync Gradle files
+### 3. Sync Gradle files
 
-4. Run the application on:
-   - Android Emulator
-   - Physical Android Device
+### 4. Add your Gemini API Key
+
+Inside:
+
+```bash
+GeminiHelper.kt
+```
+
+Replace:
+
+```kotlin
+private const val API_KEY = "YOUR_API_KEY"
+```
+
+with your Gemini API key.
+
+### 5. Run the application on:
+- Android Emulator
+- Physical Android Device
 
 ---
 

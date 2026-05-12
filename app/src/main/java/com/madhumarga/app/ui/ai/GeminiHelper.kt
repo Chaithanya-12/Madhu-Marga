@@ -7,7 +7,7 @@ import org.json.JSONArray
 import java.io.IOException
 
 object GeminiHelper {
-    private const val API_KEY = "AIzaSyD611c2AX_Cp-io_81R2skxa5lIuGtUNRI"
+    private const val API_KEY = "YOUR API KEY"
     private val client = OkHttpClient()
     private val BASE_URL =
         "https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent?key=$API_KEY"
